@@ -1,4 +1,4 @@
-# UnrealObjects
+# Custom Default Objects
 Blender Add-on - Adds meshes, lights and probes scaled to Unreal dimensions
 
 Designed for people who work in Blender at 0.01 unit scale, 
