@@ -25,7 +25,7 @@ from bpy.types import (
 ###################
 
 class CustomObjectsPreferences(bpy.types.AddonPreferences):
-    bl_idname = __name__
+    bl_idname = __init__
 
     #########
     # Display
